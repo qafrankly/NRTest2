@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component } from "react";
 class HomePageTakeover extends Component {
 
   constructor(props){ //gives us acces to props, fires long before page load
