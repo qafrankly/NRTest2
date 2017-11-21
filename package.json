@@ -15,6 +15,7 @@
     "textColor": "black",
     "heroImageBackgroundColor": "#2980b9",
     "thumbnailAlignment": "left"
+    "lintfix": false
   },
   "propChoices": {
     "layout": [
