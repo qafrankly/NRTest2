@@ -5,6 +5,7 @@
   "propTypes": {
     "title": "PropTypes.string",
     "layout": "PropTypes.string"
+    
   },
   "defaultProps": {
     "title": "Test uniqueness",
@@ -14,8 +15,8 @@
     "numberOfItems": 6,
     "textColor": "black",
     "heroImageBackgroundColor": "#2980b9",
-    "thumbnailAlignment": "left"
-    "lintfix"= "false"
+    "thumbnailAlignment": "left",
+    "lintfix": "false"
   },
   "propChoices": {
     "layout": [
