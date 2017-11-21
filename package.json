@@ -4,7 +4,8 @@
   "affiliates":["wnow,wnow,griffin,kotv"],
   "propTypes": {
     "title": "PropTypes.string",
-    "layout": "PropTypes.string"
+    "layout": "PropTypes.string",
+    "lintfix": "false"
     
   },
   "defaultProps": {
@@ -27,7 +28,8 @@
   "FRN_resourceEndpoints": [
     {
       "url": "",
-      "type": "json"
+      "type": "json",
+      "lintfix": "false"
     }
   ]
 }
