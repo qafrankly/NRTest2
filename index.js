@@ -6,7 +6,7 @@ class HomePageTakeover extends Component {
     this.state = {} /* great place to assign default state */
   }
   
-  render(){
+  render({
     return (<div className="blah">test</div>) 
             } 
 }
