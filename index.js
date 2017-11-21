@@ -7,9 +7,7 @@ class HomePageTakeover extends Component {
   }
   
   render(){
-    return (
-      <div>test</div>
-      <div className="blah">test</div>) 
+    return (<div className="blah">test</div>) 
             } 
 }
 export default HomePageTakeover;
