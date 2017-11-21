@@ -8,7 +8,7 @@ class HomePageTakeover extends Component {
   
   render(){
     return (
-     
+     <div class="blah">test</div>
       <div class="blah">test</div>) 
             } 
 }
