@@ -10,5 +10,5 @@ class HomePageTakeover extends Component {
     return (<div className="blah">test</div>) 
             } 
 }
-export default HomePageTakeover
+export default HomePageTakeover;
             
